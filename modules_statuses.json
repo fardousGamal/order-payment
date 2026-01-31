@@ -1,0 +1,5 @@
+{
+    "Auth": true,
+    "Order": true,
+    "Payment": true
+}
